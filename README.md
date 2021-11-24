@@ -1,5 +1,4 @@
 <!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
-##
 <h1 align=center>Welcome to my GitHub page!</h1>
 <div align=center>
     <a href="https://github.com/noedigsti">
@@ -29,153 +28,202 @@
 
 </br>
 
-##
-<details>
-  <summary>💭 👈 On philosophies and thoughts...</summary>
-  </br>
-  
-  <details>
-    <summary>—Alan Watts</summary>
-    
-            “A person who thinks all the time has nothing to think about except
-            thoughts. So, he loses touch with reality, and lives in a world of 
-            illusions. By thoughts, I mean specifically, chatter in the skull. 
-            Perpetual and compulsive repetition of words, of reckoning and calculating. 
-            I’m not saying that thinking is bad. Like everything else, it’s useful in
-            moderation. A good servant but a bad monster. And all so-called civilized
-            peoples have increasingly become crazy and self-destructive because, through
-            excessive thinking they have lost touch with reality. That’s to say, we 
-            confuse signs, words, numbers, symbols and ideas with the real world.”
-  
-    
-            “The reason you want to be better is the reason why you aren’t, shall I 
-            put it like that? We aren’t better because we want to be. Because the road 
-            to hell is paved with good intentions. Because all the do-gooders in the world
-            whether they’re doing good for others or doing it for themselves are 
-            troublemakers: on the basis of “kindly let me help you or you will drown,” 
-            said the monkey putting the fish safely up a tree. Sometimes doing good to 
-            others and even doing good to oneself is amazingly destructive because it’s 
-            full of conceit. How do you know what’s good for other people? How do you know
-            what’s good for you? If you say you want to improve then you ought to know 
-            what’s good for you, but obviously you don’t because if you did then you would 
-            be improved. So, we don’t know. We do not really know how to interfere with 
-            the way the world is.”
-  
-  
-            “Every intelligent individual wants to know what makes him tick, and yet is 
-            at once fascinated and frustrated by the fact that oneself is the most 
-            difficult of all things to know.”
-  
-  
-            “We seldom realize, for example that our most private thoughts and emotions 
-            are not actually our own. For we think in terms of languages and images which
-            we did not invent, but which were given to us by our society.”
-  
-  
-            “By being responsible, we’ve created civilization, medicine, care of the poor,
-            everything, but what a headache the thing has become? As we solve all our 
-            problems, we make more problems and every problem you solved gives you ten new
-            problems. I’m not saying don’t do that, but don’t think you’re going to get 
-            anywhere by doing that. That’s one way of arranging it, that’s one kind of 
-            dance you can have, is to improve everything and have technology, but it doesn’t
-            really solve anything. And it’s only in a moment, you see, when you fully 
-            understand that your situation as a human being is completely insoluable…that
-            there is no answer and that you give up looking for the answer — that’s PHEW — 
-            that’s Nirvana and that’s how Buddhism works.”
-    
-    
-            “This is the real secret of life — to be completely engaged with what you are 
-            doing in the here and now. And instead of calling it work, realize it is play.”
-    
-  </details>
-  
-  <details>
-    <summary>—Christopher Voss</summary>
-  
-            “Yes means nothing without How.”
-            - The Three Types of Yeses You'll Hear During a Negotiation
-  
-  </details>
-  
-  <details>
-    <summary>—Jordan Peterson</summary>
-  
-            “If you are not willing to be a fool, you can't become a master.”
-            - 12 Rules for Life: An Antidote to Chaos
+<!-- Quotes Section if anyone is fond of reading -->
+<div align=center>
+<details><summary>💭 👈 
 
-
-            “In order to be able to think, you have to risk being offensive.”
-            - 12 Rules for Life: An Antidote to Chaos
+#### *On philosophies and thoughts...*
+</summary>
   
-  </details>
-  
-  <details>
-    <summary>—Marshall Mathers || Eminem</summary>
-  
-            “I want to be able to have all these words at my disposal, in my vocabulary, 
-            at all time, whenever I need to pull them out.”
-  
-  </details>
-  
-  <details>
-    <summary>—Steve Jobs</summary>
-  
-            “Great people self-manage. Once they know what to do, they will go figure 
-            how to do it, they don't need to be managed. What they need is a common vision.
-            And that's what leadership is. What leadership is, is having a vision, being 
-            able to articulate that so people around you can understand it and getting 
-            consensus on a common vision. We want great people, but not seasoned 
-            professionals. We want the people who's at the tips of their fingers and in 
-            their passion the latest understanding of where the technology was and what we 
-            could do with that technology and who want to bring that to lots of people. 
-            Best managers are great individual contributors who never ever want to be a 
-            manager but decide they have to be a manager because no one else is going to be 
-            able to do as good a job as them.”
-  
-  </details>
+<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Alan_Watts">Alan Watts</a></summary>
 
-  <details>
-    <summary>—Sun Tzu</summary>
-        
-            a lot 🗿
+<img height=300px src="https://upload.wikimedia.org/wikipedia/en/9/97/Alan_Watts.png">
+    <div align=left>
+        <blockquote>
+            
+*“A person who thinks all the time has nothing to think about except
+thoughts. So, he loses touch with reality, and lives in a world of
+illusions. By thoughts, I mean specifically, chatter in the skull.
+Perpetual and compulsive repetition of words, of reckoning and calculating.
+I’m not saying that thinking is bad. Like everything else, it’s useful in
+moderation. A good servant but a bad monster. And all so-called civilized
+peoples have increasingly become crazy and self-destructive because, through
+excessive thinking they have lost touch with reality. That’s to say, we
+confuse signs, words, numbers, symbols and ideas with the real world.”*
+        </blockquote>
+        <blockquote>
 
-  </details>
+*“The reason you want to be better is the reason why you aren’t, shall I
+put it like that? We aren’t better because we want to be. Because the road
+to hell is paved with good intentions. Because all the do-gooders in the world
+whether they’re doing good for others or doing it for themselves are
+troublemakers: on the basis of “kindly let me help you or you will drown,”
+said the monkey putting the fish safely up a tree. Sometimes doing good to
+others and even doing good to oneself is amazingly destructive because it’s
+full of conceit. How do you know what’s good for other people? How do you know
+what’s good for you? If you say you want to improve then you ought to know
+what’s good for you, but obviously you don’t because if you did then you would
+be improved. So, we don’t know. We do not really know how to interfere with
+the way the world is.”*
+        </blockquote>
+        <blockquote>
 
-  <details>
-    <summary>—Others</summary>
-        
-            “The code is more what you'd call 'guidelines' than actual rules.”
-            - Barbossa, Pirates of the Caribbean
+*“Every intelligent individual wants to know what makes him tick, and yet is
+at once fascinated and frustrated by the fact that oneself is the most
+difficult of all things to know.”*
+        </blockquote>
+        <blockquote>
 
+*“We seldom realize, for example that our most private thoughts and emotions
+are not actually our own. For we think in terms of languages and images which
+we did not invent, but which were given to us by our society.”*
+        </blockquote>
+        <blockquote>
 
-            “Trust the process.”
+*“By being responsible, we’ve created civilization, medicine, care of the poor,
+everything, but what a headache the thing has become? As we solve all our
+problems, we make more problems and every problem you solved gives you ten new
+problems. I’m not saying don’t do that, but don’t think you’re going to get
+anywhere by doing that. That’s one way of arranging it, that’s one kind of
+dance you can have, is to improve everything and have technology, but it doesn’t
+really solve anything. And it’s only in a moment, you see, when you fully
+understand that your situation as a human being is completely insoluable…that
+there is no answer and that you give up looking for the answer — that’s PHEW —
+that’s Nirvana and that’s how Buddhism works.”*
+        </blockquote>
+        <blockquote>
 
-  </details>
-
-  <details>
-    <summary>—Quotes I just made up</summary>
-
-            “To dream, as a kid; and to make real of your everyday dream as you grow up.”
-  
-  </details>
-
-  •••to be added
+*“This is the real secret of life — to be completely engaged with what you are
+doing in the here and now. And instead of calling it work, realize it is play.”*
+        </blockquote>
+    </div>
 </details>
 
-</br>
+<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Christopher_Voss">Christopher Voss</a></summary>
 
+<img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Christopher_Voss_CEO_of_The_Black_Swan_Group.jpg/330px-Christopher_Voss_CEO_of_The_Black_Swan_Group.jpg">
+    <div align=center>
+        <blockquote>
+
+*“Yes means nothing without How.”*
+*- The Three Types of Yeses You'll Hear During a Negotiation*
+        </blockquote>
+    </div>
+</details>
+
+<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Jordan_Peterson">Jordan Peterson</a></summary>
+
+<img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Peterson_Lecture_%2833522701146%29.png/330px-Peterson_Lecture_%2833522701146%29.png">
+    <div align=center>
+        <blockquote>
+
+*“If you can't even clean up your own room, who the hell are you to give advice to the world?”*
+        </blockquote>
+        <blockquote>
+
+*“Slay the dragon within us.”*
+        </blockquote>
+        <blockquote>
+
+*“Lobster”*
+        </blockquote>
+        <blockquote>
+
+*“If you are not willing to be a fool, you can't become a master.”*
+*- 12 Rules for Life: An Antidote to Chaos*
+        </blockquote>
+        <blockquote>
+
+*“In order to be able to think, you have to risk being offensive.”*
+*- 12 Rules for Life: An Antidote to Chaos*
+        </blockquote>
+    </div>
+</details>
+
+<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Eminem">Marshall Mathers || Eminem</a></summary>
+
+<img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Proof-eminem.jpg/330px-Proof-eminem.jpg">
+    <div align=center>
+        <blockquote>
+        
+*“I want to be able to have all these words at my disposal, in my vocabulary,
+at all time, whenever I need to pull them out.”*
+        </blockquote>
+    </div>
+</details>
+
+<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a></summary>
+
+<img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg/225px-Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg">
+    <div align=left>
+        <blockquote>
+
+*“Great people self-manage. Once they know what to do, they will go figure
+how to do it, they don't need to be managed. What they need is a common vision.
+And that's what leadership is. What leadership is, is having a vision, being
+able to articulate that so people around you can understand it and getting
+consensus on a common vision. We want great people, but not seasoned
+professionals. We want the people who's at the tips of their fingers and in
+their passion the latest understanding of where the technology was and what we
+could do with that technology and who want to bring that to lots of people.
+Best managers are great individual contributors who never ever want to be a
+manager but decide they have to be a manager because no one else is going to be
+able to do as good a job as them.”*
+        </blockquote>
+    </div>
+</details>
+
+<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Sun_Tzu">Sun Tzu</a></summary>
+    <div align=center>
+        <blockquote>
+
+a lot of quotes 🗿
+        </blockquote>
+    </div>
+</details>
+
+<details><summary>👈&nbsp; &nbsp;Others</a></summary>
+    <div align=center>
+        <blockquote>
+
+*“The code is more what you'd call 'guidelines' than actual rules.”*
+*- Barbossa, Pirates of the Caribbean*
+        </blockquote>
+        <blockquote>
+
+*“Trust the process.”*
+        </blockquote>
+    </div>
+</details>
+
+<details><summary>👈&nbsp; &nbsp;Quotes I just made up</a></summary>
+    <div align=center>
+        <blockquote>
+
+*“To dream, as a kid; and to make real of your everyday dream as you grow up.”*
+        </blockquote>
+    </div>
+</details>
+
+*•••more to be added*
+</details>
+</div>
+
+<!-- About Section -->
 ## ⚔️ About me
-<details>
-    <summary>Here 👈</summary>
+<details><summary>Click Here 👈</summary>
     <ul class="about-list">
         <li>
-            University Graduate in December 2021 
+            University Graduate in December 2021 <i>(thank god, finally)</i>
+        </li>
+        <li>
+            Young developer 
         </li>
         <li>
             Mild Asperger's
         </li>
         <li>
-            Can not💢 write long paragraphs
+            Can not💢 write long paragraphs, bullet points are just better
         </li>
         <li>
             Have own instrinsic interests & won't talk over you
@@ -190,8 +238,7 @@
             🛠 Engineering + 🔮 Black magic 
         </li>
     </ul>
-    <details>
-        <summary>Here 👈 —My fields of interest... or what makes me tick, what floats me boat, what tickles me pickle, what bakes me cake</summary>
+    <details><summary>Click Here 👈 —My fields of interest... or what makes me tick, what floats me boat, what tickles me pickle, what bakes me cake</summary>
         <ul class="interest-list">
             <li>
                 <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a>
@@ -203,7 +250,7 @@
                 <a href="https://en.wikipedia.org/wiki/Computer-generated_imagery">Computer Generated Imagery (CGI) & Video Games</a>
             </li>
             <li>
-                <a href="https://en.wikipedia.org/wiki/Solution_stack">Full Stack</a>
+                <a href="https://en.wikipedia.org/wiki/Solution_stack">Full Stack & DevOps</a>
             </li>
             <li>
                 <a href="https://tesla.com/"><img src="https://img.shields.io/badge/Tesla-🚐-000000?style=for-the-badge&logo=Tesla"></a>
@@ -225,83 +272,52 @@
     </details>
 </details>
 
-Reach me here 👉 [🦜Twitter][social-message] || [📧Mail][social-mail] || [👾Discord Gideone#0714][social-discord]
+#### Reach me on [🦜Twitter][social-message] || [📧Mail][social-mail] || [👾Discord Gideone#0714][social-discord] || Website link on the header
 
 </br>
 
-## 📌 A currated list of notable repos on my GitHub 
+<!-- Repos list -->
+## 📌 A currated, long list of notable repos on my GitHub 
 #### ⚠️Warning: projects are *under contruction!*
 
-|  🚀  |           *Project title*             |                       *Description*                           |                    *More links*                     |             *Main author(s)*            |
-| :---: | :----------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------: |
-| *01*  |          🔨[Project-Zamatta]         |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |..
-| *02*  |          🔨[Project-candace]         |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |..
-| *03*  |          🔨[Project-dragon]          |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |..
-| *04*  |          🔨[Project-benover]         |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |..
-| *05*  |          🔨[updog]                   |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |..
-| *06*  |          🔨[Project-wendys]          |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |..
-| *07*  |          🔨[Kisma]                   |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |..
-| *08*  |          🔨[Project-Cdeez]           |          `Desc..................................`             |                     [🔗][url]                       |         [noedigsti], [LeeGhandi]        |
+|  🚀  |***Project title*** |***Description***                         |***More links***|***Main author(s)***      |
+| :---:| :-----------------: | :--------------------------------------: | :--------: | :---------------------------:|
+| *1*  | 🔨[Project-Zamatta] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *2*  | 🔨[Project-candace] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *3*  | 🔨[Project-dragon]  | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *4*  | 🔨[Project-benover] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *5*  | 🔨[updog]           | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *6*  | 🔨[Project-wendys]  | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *7*  | 🔨[Kisma]           | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *8*  | 🔨[Project-Cdeez]   | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
 
 </br>
 
-## 📝 My current {short, long, undefined}-term TODO's
-<details>
-    <summary>Here 👈</summary>
-    </br>
-    <table>
-        <tbody>
-            <tr>
-                <th align="center">📂</th>
-                <th align="center">TODO</th>
-                <th align="center">Comment</th>
-                <th align="center">tags</th>
-            </tr>
-            <tr>
-                <td align="center">1</td>
-                <td align="center">Setup GitHub actions for this README.md</td>
-                <td align="center">then add links to the rest of the tool icons</td>
-                <td align="center">⇋</td>
-            </tr>
-            <tr>
-                <td align="center">2</td>
-                <td align="center">Automate changes to README.md</td>
-                <td align="center">⇋</td>
-                <td align="center">⇋</td>
-            </tr>
-            <tr>
-                <td align="center">3</td>
-                <td align="center">Add a Stats Card about the code (# of lines, etc.)</td>
-                <td align="center">⇋</td>
-                <td align="center">⇋</td>
-            <tr>
-                <td align="center">4</td>
-                <td align="center">⇋</td>
-                <td align="center">⇋</td>
-                <td align="center">⇋</td>
-            </tr>
-            <tr>
-                <td align="center">??</td>
-                <td align="center">??</td>
-                <td align="center">??</td>
-                <td align="center">⇋</td>
-            </tr>
-            <tr>
-                <td align="center">n</td>
-                <td align="center">look into repos</td>
-                <td align="center">⇋</td>
-                <td align="center">⇋</td>
-            </tr>
-        </tbody>
-    </table>
-</details>
+<!-- TODO -->
+## 📝 My TODO's
+####  ..in no particular order: short-term, long-term, undefined. 
+<details><summary>Click Here 👈</summary>
+
+|  📂  | 🤔                                        |***Comment***                                 |***tags***|
+| :---: | :---------------------------------------: | :------------------------------------------: | :------: |
+| *1*   | Setup GitHub actions for this README.md   | then add links to the rest of the tool icons |    ⇋     |..
+| *2*   | Automate changes to README.md             |                                              |    ⇋     |..
+| *3*   |                                           |                                              |    ⇋     |..
+| *4*   |                                           |                                              |    ⇋     |..
+| *5*   | Webapps                                   |                                              |    ⇋     |..
+| *6*   | Automations                               |                                              |    ⇋     |..
+| *7*   |                                           |                                              |    ⇋     |..
+| *??*  | *??*                                      | *??*                                         |    ⇋     |..
+| *n*   |                                           |                                              |    ⇋     |..
+</details>                 
 
 </br>
 
+<!-- Tools, Softwares, Languages, Experiences -->
 ## 🧐 Current
 #### things that I have ever known up till now, and still been improving
 <div align=center>    
-    <a href="#-">
+    <a href="#-" class="tools-known">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=C%2B%2B&logoColor=blue">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=C%20Sharp&logoColor=green">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Python">
@@ -316,23 +332,21 @@ Reach me here 👉 [🦜Twitter][social-message] || [📧Mail][social-mail] || [
     </a>
 </div>
 
-</br>
-
 ## 👩‍🚀 Upcoming very soon™
 #### ..on a todo list or on a learning path
 <div align=center>
-    <a href="#-">
+    <a href="#-" class="tools-soon">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=React">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=TypeScript">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Redis">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=MongoDB">
         <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=PHP">
         <img height=48 src="https://img.shields.io/badge/🤖-rgba(255,255,255,0)?style=for-the-badge&logo=TensorFlow">
+        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Java&logoColor=orange">
     </a>
 </div>
 
-</br>
-
+<!-- Stats Section -->
 ## 🗿 GitHub Stats 
 #### ..includes private repos
 <div align="center">
@@ -352,7 +366,7 @@ Reach me here 👉 [🦜Twitter][social-message] || [📧Mail][social-mail] || [
 
 <!-- References, URL variables -->
 [social-message]:  https://twitter.com/noedigsti_
-[social-discord]:  #-
+[social-discord]:  https://discord.com
 [social-mail]:     mailto:noedigsti@gmail.com
 
 [Project-Zamatta]: https://youtu.be/dQw4w9WgXcQ
