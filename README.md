@@ -2,7 +2,7 @@
 <h1 align=center>Welcome to my GitHub page!</h1>
 <div align=center>
     <a href="https://github.com/noedigsti">
-        <img height=32 src="https://img.shields.io/badge/🌐website🔧-inactive?url=&style=for-the-badge">
+        <img height=32 src="https://img.shields.io/badge/🌐website-ffffff?url=&style=for-the-badge">
     </a>
     <a href="#-">
         <img height=32 src="https://img.shields.io/badge/⮚gideon⮘-000000?style=for-the-badge">
@@ -35,7 +35,7 @@
 #### *On philosophies and thoughts...*
 </summary>
   
-<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Alan_Watts">Alan Watts</a></summary>
+<details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Alan_Watts">Alan Watts</a></summary>
 
 <img height=300px src="https://upload.wikimedia.org/wikipedia/en/9/97/Alan_Watts.png">
     <div align=left>
@@ -99,7 +99,7 @@ doing in the here and now. And instead of calling it work, realize it is play.�
     </div>
 </details>
 
-<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Christopher_Voss">Christopher Voss</a></summary>
+<details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Christopher_Voss">Christopher Voss</a></summary>
 
 <img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Christopher_Voss_CEO_of_The_Black_Swan_Group.jpg/330px-Christopher_Voss_CEO_of_The_Black_Swan_Group.jpg">
     <div align=center>
@@ -111,7 +111,7 @@ doing in the here and now. And instead of calling it work, realize it is play.�
     </div>
 </details>
 
-<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Jordan_Peterson">Jordan Peterson</a></summary>
+<details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Jordan_Peterson">Jordan Peterson</a></summary>
 
 <img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Peterson_Lecture_%2833522701146%29.png/330px-Peterson_Lecture_%2833522701146%29.png">
     <div align=center>
@@ -140,7 +140,7 @@ doing in the here and now. And instead of calling it work, realize it is play.�
     </div>
 </details>
 
-<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Eminem">Marshall Mathers || Eminem</a></summary>
+<details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Eminem">Marshall Mathers || Eminem</a></summary>
 
 <img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Proof-eminem.jpg/330px-Proof-eminem.jpg">
     <div align=center>
@@ -152,7 +152,7 @@ at all time, whenever I need to pull them out.”*
     </div>
 </details>
 
-<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a></summary>
+<details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a></summary>
 
 <img height=300px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg/225px-Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg">
     <div align=left>
@@ -173,7 +173,7 @@ able to do as good a job as them.”*
     </div>
 </details>
 
-<details><summary>👈&nbsp; &nbsp;<a href="https://en.wikipedia.org/wiki/Sun_Tzu">Sun Tzu</a></summary>
+<details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Sun_Tzu">Sun Tzu</a></summary>
     <div align=center>
         <blockquote>
 
@@ -182,7 +182,7 @@ a lot of quotes 🗿
     </div>
 </details>
 
-<details><summary>👈&nbsp; &nbsp;Others</a></summary>
+<details><summary>👈&nbsp; —Others</a></summary>
     <div align=center>
         <blockquote>
 
@@ -196,7 +196,7 @@ a lot of quotes 🗿
     </div>
 </details>
 
-<details><summary>👈&nbsp; &nbsp;Quotes I just made up</a></summary>
+<details><summary>👈&nbsp; —Quotes I just made up</a></summary>
     <div align=center>
         <blockquote>
 
@@ -272,7 +272,18 @@ a lot of quotes 🗿
     </details>
 </details>
 
-#### Reach me on [🦜Twitter][social-message] || [📧Mail][social-mail] || [👾Discord Gideone#0714][social-discord] || Website link on the header
+<!-- Contacts -->
+<div align=center>
+    <a href="https://twitter.com/noedigsti_">
+        <img height=32 src="https://img.shields.io/badge/noedigsti__-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff">
+    </a>
+    <a href="mailto:noedigsti@gmail.com">
+        <img height=32 src="https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=Gmail">
+    </a>
+    <a href="https://discord.com">
+        <img height=32 src="https://img.shields.io/badge/Gideon%230714-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff">
+    </a>
+</div>
 
 </br>
 
@@ -318,17 +329,17 @@ a lot of quotes 🗿
 #### things that I have ever known up till now, and still been improving
 <div align=center>    
     <a href="#-" class="tools-known">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=C%2B%2B&logoColor=blue">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=C%20Sharp&logoColor=green">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Python">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=HTML5">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=CSS%20Wizardry">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Node.js">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=JavaScript">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Express&logoColor=yellow">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=GNU%20Bash">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Docker">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=NGINX&logoColor=green">
+        <img height=24 src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B">
+        <img height=24 src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=C%20Sharp">
+        <img height=24 src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=CSS%20Wizardry&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/ExpressJS-yellow?style=for-the-badge&logo=Express&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=NGINX&logoColor=ffffff">
     </a>
 </div>
 
@@ -336,13 +347,14 @@ a lot of quotes 🗿
 #### ..on a todo list or on a learning path
 <div align=center>
     <a href="#-" class="tools-soon">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=React">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=TypeScript">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Redis">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=MongoDB">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=PHP">
-        <img height=48 src="https://img.shields.io/badge/🤖-rgba(255,255,255,0)?style=for-the-badge&logo=TensorFlow">
-        <img height=48 src="https://img.shields.io/badge/%20-rgba(255,255,255,0)?style=for-the-badge&logo=Java&logoColor=orange">
+        <img height=24 src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=ffffff">
     </a>
 </div>
 
@@ -365,19 +377,19 @@ a lot of quotes 🗿
 </div>
 
 <!-- References, URL variables -->
-[social-message]:  https://twitter.com/noedigsti_
+[social-twitter]:  https://twitter.com/noedigsti_
 [social-discord]:  https://discord.com
 [social-mail]:     mailto:noedigsti@gmail.com
 
-[Project-Zamatta]: https://youtu.be/dQw4w9WgXcQ
-[Project-candace]: https://youtu.be/dQw4w9WgXcQ
-[Project-dragon]:  https://youtu.be/dQw4w9WgXcQ
-[Project-benover]: https://youtu.be/dQw4w9WgXcQ
-[updog]:           https://youtu.be/dQw4w9WgXcQ
-[Project-wendys]:  https://youtu.be/dQw4w9WgXcQ
-[Kisma]:           https://youtu.be/dQw4w9WgXcQ
-[Project-Cdeez]:   https://youtu.be/dQw4w9WgXcQ
-[url]:             https://youtu.be/dQw4w9WgXcQ
+[Project-Zamatta]: https://github.com/noedigsti
+[Project-candace]: https://github.com/noedigsti
+[Project-dragon]:  https://github.com/noedigsti
+[Project-benover]: https://github.com/noedigsti
+[updog]:           https://github.com/noedigsti
+[Project-wendys]:  https://github.com/noedigsti
+[Kisma]:           https://github.com/noedigsti
+[Project-Cdeez]:   https://github.com/noedigsti
+[url]:             https://github.com/noedigsti
 
 [LeeGhandi]:       https://youtu.be/dQw4w9WgXcQ
-[noedigsti]:       https://youtu.be/dQw4w9WgXcQ
+[noedigsti]:       https://github.com/noedigsti
