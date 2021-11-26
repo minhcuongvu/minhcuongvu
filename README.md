@@ -2,10 +2,7 @@
 <h1 align=center>Welcome to my GitHub page!</h1>
 <div align=center>
     <a href="https://github.com/noedigsti">
-        <img height=32 src="https://img.shields.io/badge/🌐website-ffffff?url=&style=for-the-badge">
-    </a>
-    <a href="#-">
-        <img height=32 src="https://img.shields.io/badge/⮚gideon⮘-000000?style=for-the-badge">
+        <img height=32 src="https://img.shields.io/badge/🌐website🔧-inactive?url=&style=for-the-badge">
     </a>
     <a href="#-">
         <img height=32 src="https://img.shields.io/badge/join%20the%20dark💡%20side-000000?style=for-the-badge">
@@ -309,17 +306,18 @@ a lot of quotes 🗿
 ####  ..in no particular order: short-term, long-term, undefined. 
 <details><summary>Click Here 👈</summary>
 
-|  📂  | 🤔                                        |***Comment***                                 |***tags***|
-| :---: | :---------------------------------------: | :------------------------------------------: | :------: |
-| *1*   | Setup GitHub actions for this README.md   | then add links to the rest of the tool icons |    ⇋     |..
-| *2*   | Automate changes to README.md             |                                              |    ⇋     |..
-| *3*   |                                           |                                              |    ⇋     |..
-| *4*   |                                           |                                              |    ⇋     |..
-| *5*   | Webapps                                   |                                              |    ⇋     |..
-| *6*   | Automations                               |                                              |    ⇋     |..
-| *7*   |                                           |                                              |    ⇋     |..
-| *??*  | *??*                                      | *??*                                         |    ⇋     |..
-| *n*   |                                           |                                              |    ⇋     |..
+|  📂  | 🤔                                     | ***Comment***                                | ***Updated*** | ***tags*** |
+| :---: | :------------------------------------: | :------------------------------------------: | :-----------: | :--------: |
+| *1*   | GitHub actions                         | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
+| *2*   | Automate changes to this README.md     |                                              |       ⇋       |     ⇋      |..
+| *3*   | Webservers                             | Webapps                                      |       ⇋       |     ⇋      |..
+| *4*   | Personal site link to this GitHub      | then display this todo there                 |       ⇋       |     ⇋      |..
+| *5*   | GCP, YouTube API                       | look into AWS setups                         |       ⇋       |     ⇋      |..
+| *6*   |                                        |                                              |       ⇋       |     ⇋      |..
+| *7*   | Automations                            |                                              |       ⇋       |     ⇋      |..
+| *8*   |                                        |                                              |       ⇋       |     ⇋      |..
+| *??*  | *??*                                   | *??*                                         |       ⇋       |     ⇋      |..
+| *n*   |                                        |                                              |       ⇋       |     ⇋      |..
 </details>                 
 
 </br>
