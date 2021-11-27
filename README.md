@@ -2,7 +2,7 @@
 <h1 align=center>Welcome to my GitHub page!</h1>
 <div align=center>
     <a href="https://github.com/noedigsti">
-        <img height=32 src="https://img.shields.io/badge/🌐website🔧-inactive?url=&style=for-the-badge">
+        <img height=32 src="https://img.shields.io/badge/🌐website-ffffff?url=&style=for-the-badge">
     </a>
     <a href="#-">
         <img height=32 src="https://img.shields.io/badge/join%20the%20dark💡%20side-000000?style=for-the-badge">
@@ -278,7 +278,7 @@ a lot of quotes 🗿
         <img height=32 src="https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=Gmail">
     </a>
     <a href="https://discord.com">
-        <img height=32 src="https://img.shields.io/badge/Gideon%230714-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff">
+        <img height=32 src="https://img.shields.io/badge/Gideone%230714-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff">
     </a>
 </div>
 
@@ -308,7 +308,7 @@ a lot of quotes 🗿
 
 |  📂  | 🤔                                     | ***Comment***                                | ***Updated*** | ***tags*** |
 | :---: | :------------------------------------: | :------------------------------------------: | :-----------: | :--------: |
-| *1*   | GitHub actions                         | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
+| *1*   | remove this todo list from here        | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
 | *2*   | Automate changes to this README.md     |                                              |       ⇋       |     ⇋      |..
 | *3*   | Webservers                             | Webapps                                      |       ⇋       |     ⇋      |..
 | *4*   | Personal site link to this GitHub      | then display this todo there                 |       ⇋       |     ⇋      |..
