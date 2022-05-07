@@ -1,9 +1,6 @@
 <!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
 <h1 align=center>Welcome to my GitHub page!</h1>
 <div align=center>
-    <a href="https://github.com/noedigsti">
-        <img height=32 src="https://img.shields.io/badge/🌐website-ffffff?url=&style=for-the-badge">
-    </a>
     <a href="#-">
         <img height=32 src="https://img.shields.io/badge/join%20the%20dark💡%20side-000000?style=for-the-badge">
     </a>
@@ -253,51 +250,52 @@ a lot of quotes 🗿
 
 <!-- Contacts -->
 <div align=center>
+    <a href="https://cuongminhvu.xyz">
+        <img height=32 src="https://img.shields.io/badge/🌐website-ffffff?url=&style=for-the-badge">
+    </a>
+    <a href="https://www.linkedin.com/in/cuongminhvu/">
+        <img height=32 src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn">
+    </a>
     <a href="https://twitter.com/noedigsti_">
         <img height=32 src="https://img.shields.io/badge/noedigsti__-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff">
     </a>
     <a href="mailto:noedigsti@gmail.com">
-        <img height=32 src="https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=Gmail">
+        <img height=32 src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=Gmail">
     </a>
-    <a href="https://discord.com">
-        <img height=32 src="https://img.shields.io/badge/Gideone%230714-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff">
-    </a>
+</div>
 </div>
 
 </br>
 
 <!-- Repos list -->
-## 📌 A currated, long list of notable repos on my GitHub 
-#### ⚠️Warning: projects are *under contruction!*
+## 📌 A list of notable repos on my GitHub 
+#### ⚠️Some projects remain private [P] because *under contruction!* 
 
 |  🚀  |***Project title*** |***Description***                         |***More links***|***Main author(s)***      |
 | :---:| :-----------------: | :--------------------------------------: | :--------: | :---------------------------:|
-| *1*  | 🔨[Project-Zamatta] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *2*  | 🔨[Project-candace] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *3*  | 🔨[Project-dragon]  | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *4*  | 🔨[Project-benover] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *5*  | 🔨[updog]           | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *6*  | 🔨[Project-wendys]  | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *7*  | 🔨[Kisma]           | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+| *1*  | 🔨[cuongminhvu.xyz] [P] | This is my personal website where I showcase projects| [🔗][url] | *[noedigsti]*                |..
+| *2*  | 🔨################# | `Desc..................................` | [🔗][url] |                              |..
+| *3*  | 🔨################# | `Desc..................................` | [🔗][url] |                              |..
+| *4*  | 🔨################# | `Desc..................................` | [🔗][url] |                              |..
+| *5*  | 🔨################# | `Desc..................................` | [🔗][url] |                              |..
+| *6*  | 🔨################# | `Desc..................................` | [🔗][url] |                              |..
+| *7*  | 🔨################# | `Desc..................................` | [🔗][url] |                              |..
 | *8*  | 🔨[Project-Cdeez]   | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
 
 </br>
 
 <!-- TODO -->
 ## 📝 My TODO's
-####  ..in no particular order: short-term, long-term, undefined. 
+####  ..in no particular order. 
 <details><summary>Click Here 👈</summary>
 
 |  📂  | 🤔                                     | ***Comment***                                | ***Updated*** | ***tags*** |
 | :---: | :------------------------------------: | :------------------------------------------: | :-----------: | :--------: |
-| *1*   | remove this todo list from here        | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
-| *2*   | Automate changes to this README.md     |                                              |       ⇋       |     ⇋      |..
-| *3*   | Webservers                             | Webapps                                      |       ⇋       |     ⇋      |..
-| *4*   | Personal site link to this GitHub      | then display this todo there                 |       ⇋       |     ⇋      |..
-| *5*   | GCP, YouTube API                       | look into AWS setups                         |       ⇋       |     ⇋      |..
-| *6*   |                                        |                                              |       ⇋       |     ⇋      |..
-| *7*   | Automations                            |                                              |       ⇋       |     ⇋      |..
-| *8*   |                                        |                                              |       ⇋       |     ⇋      |..
+|       | Put projects onto the website          |                                              |       ⇋       |     ⇋      |..
+|       | remove this todo list from here        | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
+|       | Automate changes to this README.md     |                                              |       ⇋       |     ⇋      |..
+|       | .. and more automations                |                                              |       ⇋       |     ⇋      |..
+|       |                                        |                                              |       ⇋       |     ⇋      |..
 | *??*  | *??*                                   | *??*                                         |       ⇋       |     ⇋      |..
 | *n*   |                                        |                                              |       ⇋       |     ⇋      |..
 </details>                 
@@ -359,7 +357,7 @@ a lot of quotes 🗿
 [social-discord]:  https://discord.com
 [social-mail]:     mailto:noedigsti@gmail.com
 
-[Project-Zamatta]: https://github.com/noedigsti
+[cuongminhvu.xyz]: https://github.com/noedigsti
 [Project-candace]: https://github.com/noedigsti
 [Project-dragon]:  https://github.com/noedigsti
 [Project-benover]: https://github.com/noedigsti
