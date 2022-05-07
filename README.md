@@ -27,9 +27,10 @@
 
 <!-- Quotes Section if anyone is fond of reading -->
 <div align=center>
-<details><summary>💭 👈 
+<details><summary>💭 👈
 
-#### *On philosophies and thoughts...*
+#### _On philosophies and thoughts..._
+
 </summary>
   
 <details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Alan_Watts">Alan Watts</a></summary>
@@ -50,7 +51,7 @@ confuse signs, words, numbers, symbols and ideas with the real world.”*
         </blockquote>
         <blockquote>
 
-*“The reason you want to be better is the reason why you aren’t, shall I
+_“The reason you want to be better is the reason why you aren’t, shall I
 put it like that? We aren’t better because we want to be. Because the road
 to hell is paved with good intentions. Because all the do-gooders in the world
 whether they’re doing good for others or doing it for themselves are
@@ -61,23 +62,26 @@ full of conceit. How do you know what’s good for other people? How do you know
 what’s good for you? If you say you want to improve then you ought to know
 what’s good for you, but obviously you don’t because if you did then you would
 be improved. So, we don’t know. We do not really know how to interfere with
-the way the world is.”*
-        </blockquote>
-        <blockquote>
+the way the world is.”_
 
-*“Every intelligent individual wants to know what makes him tick, and yet is
+</blockquote>
+<blockquote>
+
+_“Every intelligent individual wants to know what makes him tick, and yet is
 at once fascinated and frustrated by the fact that oneself is the most
-difficult of all things to know.”*
-        </blockquote>
-        <blockquote>
+difficult of all things to know.”_
 
-*“We seldom realize, for example that our most private thoughts and emotions
+</blockquote>
+<blockquote>
+
+_“We seldom realize, for example that our most private thoughts and emotions
 are not actually our own. For we think in terms of languages and images which
-we did not invent, but which were given to us by our society.”*
-        </blockquote>
-        <blockquote>
+we did not invent, but which were given to us by our society.”_
 
-*“By being responsible, we’ve created civilization, medicine, care of the poor,
+</blockquote>
+<blockquote>
+
+_“By being responsible, we’ve created civilization, medicine, care of the poor,
 everything, but what a headache the thing has become? As we solve all our
 problems, we make more problems and every problem you solved gives you ten new
 problems. I’m not saying don’t do that, but don’t think you’re going to get
@@ -86,14 +90,17 @@ dance you can have, is to improve everything and have technology, but it doesn�
 really solve anything. And it’s only in a moment, you see, when you fully
 understand that your situation as a human being is completely insoluable…that
 there is no answer and that you give up looking for the answer — that’s PHEW —
-that’s Nirvana and that’s how Buddhism works.”*
-        </blockquote>
-        <blockquote>
+that’s Nirvana and that’s how Buddhism works.”_
 
-*“This is the real secret of life — to be completely engaged with what you are
-doing in the here and now. And instead of calling it work, realize it is play.”*
-        </blockquote>
-    </div>
+</blockquote>
+<blockquote>
+
+_“This is the real secret of life — to be completely engaged with what you are
+doing in the here and now. And instead of calling it work, realize it is play.”_
+
+</blockquote>
+</div>
+
 </details>
 
 <details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Christopher_Voss">Christopher Voss</a></summary>
@@ -102,10 +109,12 @@ doing in the here and now. And instead of calling it work, realize it is play.�
     <div align=center>
         <blockquote>
 
-*“Yes means nothing without How.”*
-*- The Three Types of Yeses You'll Hear During a Negotiation*
-        </blockquote>
-    </div>
+_“Yes means nothing without How.”_
+_- The Three Types of Yeses You'll Hear During a Negotiation_
+
+</blockquote>
+</div>
+
 </details>
 
 <details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Jordan_Peterson">Jordan Peterson</a></summary>
@@ -114,27 +123,33 @@ doing in the here and now. And instead of calling it work, realize it is play.�
     <div align=center>
         <blockquote>
 
-*“If you can't even clean up your own room, who the hell are you to give advice to the world?”*
-        </blockquote>
-        <blockquote>
+_“If you can't even clean up your own room, who the hell are you to give advice to the world?”_
 
-*“Slay the dragon within us.”*
-        </blockquote>
-        <blockquote>
+</blockquote>
+<blockquote>
 
-*“Lobster”*
-        </blockquote>
-        <blockquote>
+_“Slay the dragon within us.”_
 
-*“If you are not willing to be a fool, you can't become a master.”*
-*- 12 Rules for Life: An Antidote to Chaos*
-        </blockquote>
-        <blockquote>
+</blockquote>
+<blockquote>
 
-*“In order to be able to think, you have to risk being offensive.”*
-*- 12 Rules for Life: An Antidote to Chaos*
-        </blockquote>
-    </div>
+_“Lobster”_
+
+</blockquote>
+<blockquote>
+
+_“If you are not willing to be a fool, you can't become a master.”_
+_- 12 Rules for Life: An Antidote to Chaos_
+
+</blockquote>
+<blockquote>
+
+_“In order to be able to think, you have to risk being offensive.”_
+_- 12 Rules for Life: An Antidote to Chaos_
+
+</blockquote>
+</div>
+
 </details>
 
 <details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Eminem">Marshall Mathers || Eminem</a></summary>
@@ -155,7 +170,7 @@ at all time, whenever I need to pull them out.”*
     <div align=left>
         <blockquote>
 
-*“Great people self-manage. Once they know what to do, they will go figure
+_“Great people self-manage. Once they know what to do, they will go figure
 how to do it, they don't need to be managed. What they need is a common vision.
 And that's what leadership is. What leadership is, is having a vision, being
 able to articulate that so people around you can understand it and getting
@@ -165,9 +180,11 @@ their passion the latest understanding of where the technology was and what we
 could do with that technology and who want to bring that to lots of people.
 Best managers are great individual contributors who never ever want to be a
 manager but decide they have to be a manager because no one else is going to be
-able to do as good a job as them.”*
-        </blockquote>
-    </div>
+able to do as good a job as them.”_
+
+</blockquote>
+</div>
+
 </details>
 
 <details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Sun_Tzu">Sun Tzu</a></summary>
@@ -175,67 +192,65 @@ able to do as good a job as them.”*
         <blockquote>
 
 a lot of quotes 🗿
-        </blockquote>
-    </div>
+
+</blockquote>
+</div>
+
 </details>
 
 <details><summary>👈&nbsp; —Others</a></summary>
     <div align=center>
         <blockquote>
 
-*“The code is more what you'd call 'guidelines' than actual rules.”*
-*- Barbossa, Pirates of the Caribbean*
-        </blockquote>
-        <blockquote>
+_“The code is more what you'd call 'guidelines' than actual rules.”_
+_- Barbossa, Pirates of the Caribbean_
 
-*“Trust the process.”*
-        </blockquote>
-    </div>
+</blockquote>
+<blockquote>
+
+_“Trust the process.”_
+
+</blockquote>
+</div>
+
 </details>
 
 <details><summary>👈&nbsp; —Quotes I just made up</a></summary>
     <div align=center>
         <blockquote>
 
-*“To dream, as a kid; and to make real of your everyday dream as you grow up.”*
-        </blockquote>
-    </div>
+_“To dream, as a kid; and to make real of your everyday dream as you grow up.”_
+
+</blockquote>
+</div>
+
 </details>
 
-*•••more to be added*
+_•••more to be added_
+
 </details>
 </div>
 
 <!-- About Section -->
+
 ## ⚔️ About me
+
 <details><summary>Click Here 👈</summary>
     <ul class="about-list">
         <li>
-            University Graduate in December 2021 <i>(thank god, finally)</i>
+            Graduated in January 2022
         </li>
         <li>
-            Young developer 
+            Aspiring Software Engineer
         </li>
         <li>
             Mild Asperger's
         </li>
         <li>
-            Can not💢 write long paragraphs, bullet points are just better
-        </li>
-        <li>
-            Have own instrinsic interests & won't talk over you
-        </li>
-        <li>
-            Think in “First Principles”
-        </li>
-        <li>
-            (⁉️Often) follow best practices
-        </li>
-        <li>
             🛠 Engineering + 🔮 Black magic 
         </li>
     </ul>
-    <details><summary>Click Here 👈 —My fields of interest... or what makes me tick, what floats me boat, what tickles me pickle, what bakes me cake</summary>
+    <details><summary>Click Here 👈 —My fields of interests...</summary>
         <ul class="interest-list">
             <li>
                 <a href="https://en.wikipedia.org/wiki/Computer_science">Computer Science</a>
@@ -280,51 +295,63 @@ a lot of quotes 🗿
     <a href="https://discord.com">
         <img height=32 src="https://img.shields.io/badge/Gideone%230714-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff">
     </a>
+    <a href="https://cuongminhvu.xyz">
+        <img height=32 src="https://img.shields.io/badge/Website%230714-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff">
+    </a>
 </div>
 
 </br>
 
 <!-- Repos list -->
-## 📌 A currated, long list of notable repos on my GitHub 
-#### ⚠️Warning: projects are *under contruction!*
 
-|  🚀  |***Project title*** |***Description***                         |***More links***|***Main author(s)***      |
-| :---:| :-----------------: | :--------------------------------------: | :--------: | :---------------------------:|
-| *1*  | 🔨[Project-Zamatta] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *2*  | 🔨[Project-candace] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *3*  | 🔨[Project-dragon]  | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *4*  | 🔨[Project-benover] | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *5*  | 🔨[updog]           | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *6*  | 🔨[Project-wendys]  | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *7*  | 🔨[Kisma]           | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
-| *8*  | 🔨[Project-Cdeez]   | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+## 📌 A currated, long list of notable repos on my GitHub
+
+#### ⚠️Warning: projects are _under contruction!_
+
+| 🚀  | **_Project title_** |            **_Description_**             | **_More links_** |     **_Main author(s)_**     |
+| :-: | :-----------------: | :--------------------------------------: | :--------------: | :--------------------------: | --- |
+| _1_ | 🔨[Project-Zamatta] | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
+| _2_ | 🔨[Project-candace] | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
+| _3_ | 🔨[Project-dragon]  | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
+| _4_ | 🔨[Project-benover] | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
+| _5_ |      🔨[updog]      | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
+| _6_ | 🔨[Project-wendys]  | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
+| _7_ |      🔨[Kisma]      | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
+| _8_ |  🔨[Project-Cdeez]  | `Desc..................................` |    [🔗][url]     | _[noedigsti]_, _[LeeGhandi]_ | ..  |
 
 </br>
 
 <!-- TODO -->
+
 ## 📝 My TODO's
-####  ..in no particular order: short-term, long-term, undefined. 
+
+#### ..in no particular order: short-term, long-term, undefined.
+
 <details><summary>Click Here 👈</summary>
 
-|  📂  | 🤔                                     | ***Comment***                                | ***Updated*** | ***tags*** |
-| :---: | :------------------------------------: | :------------------------------------------: | :-----------: | :--------: |
-| *1*   | remove this todo list from here        | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
-| *2*   | Automate changes to this README.md     |                                              |       ⇋       |     ⇋      |..
-| *3*   | Webservers                             | Webapps                                      |       ⇋       |     ⇋      |..
-| *4*   | Personal site link to this GitHub      | then display this todo there                 |       ⇋       |     ⇋      |..
-| *5*   | GCP, YouTube API                       | look into AWS setups                         |       ⇋       |     ⇋      |..
-| *6*   |                                        |                                              |       ⇋       |     ⇋      |..
-| *7*   | Automations                            |                                              |       ⇋       |     ⇋      |..
-| *8*   |                                        |                                              |       ⇋       |     ⇋      |..
-| *??*  | *??*                                   | *??*                                         |       ⇋       |     ⇋      |..
-| *n*   |                                        |                                              |       ⇋       |     ⇋      |..
-</details>                 
+|  📂  |                 🤔                 |                **_Comment_**                 | **_Updated_** | **_tags_** |
+| :--: | :--------------------------------: | :------------------------------------------: | :-----------: | :--------: | --- |
+| _1_  |  remove this todo list from here   | then add links to the rest of the tool icons |       ⇋       |     ⇋      | ..  |
+| _2_  | Automate changes to this README.md |                                              |       ⇋       |     ⇋      | ..  |
+| _3_  |             Webservers             |                   Webapps                    |       ⇋       |     ⇋      | ..  |
+| _4_  | Personal site link to this GitHub  |         then display this todo there         |       ⇋       |     ⇋      | ..  |
+| _5_  |          GCP, YouTube API          |             look into AWS setups             |       ⇋       |     ⇋      | ..  |
+| _6_  |                                    |                                              |       ⇋       |     ⇋      | ..  |
+| _7_  |            Automations             |                                              |       ⇋       |     ⇋      | ..  |
+| _8_  |                                    |                                              |       ⇋       |     ⇋      | ..  |
+| _??_ |                _??_                |                     _??_                     |       ⇋       |     ⇋      | ..  |
+| _n_  |                                    |                                              |       ⇋       |     ⇋      | ..  |
+
+</details>
 
 </br>
 
 <!-- Tools, Softwares, Languages, Experiences -->
+
 ## 🧐 Current
+
 #### things that I have ever known up till now, and still been improving
+
 <div align=center>    
     <a href="#-" class="tools-known">
         <img height=24 src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B">
@@ -338,27 +365,29 @@ a lot of quotes 🗿
         <img height=24 src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=ffffff">
         <img height=24 src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff">
         <img height=24 src="https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=NGINX&logoColor=ffffff">
-    </a>
-</div>
-
-## 👩‍🚀 Upcoming very soon™
-#### ..on a todo list or on a learning path
-<div align=center>
-    <a href="#-" class="tools-soon">
-        <img height=24 src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff">
         <img height=24 src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=ffffff">
     </a>
 </div>
 
+## 👩‍🚀 Upcoming very soon™
+
+#### ..on a todo list or on a learning path
+
+<div align=center>
+    <a href="#-" class="tools-soon">
+        <img height=24 src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff">
+        <img height=24 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff">
+    </a>
+</div>
+
 <!-- Stats Section -->
-## 🗿 GitHub Stats 
+
+## 🗿 GitHub Stats
+
 #### ..includes private repos
+
 <div align="center">
     <a href="#-">
         <img 
@@ -375,19 +404,18 @@ a lot of quotes 🗿
 </div>
 
 <!-- References, URL variables -->
-[social-twitter]:  https://twitter.com/noedigsti_
-[social-discord]:  https://discord.com
-[social-mail]:     mailto:noedigsti@gmail.com
 
-[Project-Zamatta]: https://github.com/noedigsti
-[Project-candace]: https://github.com/noedigsti
-[Project-dragon]:  https://github.com/noedigsti
-[Project-benover]: https://github.com/noedigsti
-[updog]:           https://github.com/noedigsti
-[Project-wendys]:  https://github.com/noedigsti
-[Kisma]:           https://github.com/noedigsti
-[Project-Cdeez]:   https://github.com/noedigsti
-[url]:             https://github.com/noedigsti
-
-[LeeGhandi]:       https://youtu.be/dQw4w9WgXcQ
-[noedigsti]:       https://github.com/noedigsti
+[social-twitter]: https://twitter.com/noedigsti_
+[social-discord]: https://discord.com
+[social-mail]: mailto:noedigsti@gmail.com
+[project-zamatta]: https://github.com/noedigsti
+[project-candace]: https://github.com/noedigsti
+[project-dragon]: https://github.com/noedigsti
+[project-benover]: https://github.com/noedigsti
+[updog]: https://github.com/noedigsti
+[project-wendys]: https://github.com/noedigsti
+[kisma]: https://github.com/noedigsti
+[project-cdeez]: https://github.com/noedigsti
+[url]: https://github.com/noedigsti
+[leeghandi]: https://youtu.be/dQw4w9WgXcQ
+[noedigsti]: https://github.com/noedigsti
