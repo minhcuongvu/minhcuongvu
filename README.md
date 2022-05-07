@@ -24,9 +24,7 @@
 
 <!-- Quotes Section if anyone is fond of reading -->
 <div align=center>
-<details><summary>💭 👈 
-
-#### *On philosophies and thoughts...*
+<details><summary>💭 👈 On philosophies and thoughts...
 </summary>
   
 <details><summary>👈&nbsp; —<a href="https://en.wikipedia.org/wiki/Alan_Watts">Alan Watts</a></summary>
@@ -295,7 +293,7 @@ a lot of quotes 🗿
 |       | remove this todo list from here        | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
 |       | Automate changes to this README.md     |                                              |       ⇋       |     ⇋      |..
 |       | .. and more automations                |                                              |       ⇋       |     ⇋      |..
-|       |                                        |                                              |       ⇋       |     ⇋      |..
+|       | YouTube API                            |                                              |       ⇋       |     ⇋      |..
 | *??*  | *??*                                   | *??*                                         |       ⇋       |     ⇋      |..
 | *n*   |                                        |                                              |       ⇋       |     ⇋      |..
 </details>                 
