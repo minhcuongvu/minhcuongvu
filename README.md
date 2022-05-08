@@ -271,13 +271,13 @@ a lot of quotes 🗿
 
 <!-- Repos list -->
 ## 📌 A list of notable repos on my GitHub 
-#### ⚠️Some projects remain private [P] because *under contruction!* 
 
-|  🚀  |***Project title*** |***Description***                         |***More links***|***Main author(s)***      |
-| :---:| :-----------------: | :--------------------------------------: | :--------: | :---------------------------:|
-| *1*  | 🔨[cuongminhvu.xyz] [P] | This is my personal website where I showcase projects| [🔗][url] | *[noedigsti]*                |..
-| *2*  | 🔨################# | `Desc..................................` | [🔗][url] |                              |..
-| *8*  | 🔨[Project-Cdeez]   | `Desc..................................` | [🔗][url] | *[noedigsti]*, *[LeeGhandi]* |..
+|  🚀  |***Project title*** |***Description***                                              |***More links***|***Main author(s)***      |
+| :---:| :-----------------: | :----------------------------------------------------------: | :------------: | :---------------------------:|
+| *1*  | 🔨[cuongminhvu.xyz] | This is my personal website where I showcase projects        | [🔗][url]     | *[noedigsti]*                |..
+| *8*  | 🔨[MiniGame]        | A senior year project where I got to develop a complete game | [🔗][url]     | *[noedigsti]*                |..
+| *2*  | 🔨################# | `Desc..................................`                     | [🔗][url]     |                              |..
+| *8*  | 🔨[Project-Cdeez]   | `Desc..................................`                     | [🔗][url]     | *[noedigsti]*, *[LeeGhandi]* |..
 
 </br>
 
@@ -354,7 +354,7 @@ a lot of quotes 🗿
 [social-discord]:  https://discord.com
 [social-mail]:     mailto:noedigsti@gmail.com
 
-[cuongminhvu.xyz]: https://github.com/noedigsti
+[cuongminhvu.xyz]: https://github.com/noedigsti/cuongminhvu
 [Project-candace]: https://github.com/noedigsti
 [Project-dragon]:  https://github.com/noedigsti
 [Project-benover]: https://github.com/noedigsti
@@ -362,7 +362,8 @@ a lot of quotes 🗿
 [Project-wendys]:  https://github.com/noedigsti
 [Kisma]:           https://github.com/noedigsti
 [Project-Cdeez]:   https://github.com/noedigsti
-[url]:             https://github.com/noedigsti
+[MiniGame]:        https://github.com/noedigsti/IGB400
+[url]:             https://github.com/noedigsti?tab=repositories
 
 [LeeGhandi]:       https://youtu.be/dQw4w9WgXcQ
 [noedigsti]:       https://github.com/noedigsti
