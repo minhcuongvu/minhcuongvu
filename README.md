@@ -272,12 +272,12 @@ a lot of quotes 🗿
 <!-- Repos list -->
 ## 📌 A list of notable repos on my GitHub 
 
-|  🚀  |***Project title*** |***Description***                                              |***More links***|***Main author(s)***      |
-| :---:| :-----------------: | :----------------------------------------------------------: | :------------: | :---------------------------:|
-| *1*  | 🔨[cuongminhvu.xyz] | This is my personal website where I showcase projects        | [🔗][url]     | *[noedigsti]*                |..
-| *8*  | 🔨[MiniGame]        | A senior year project where I got to develop a complete game | [🔗][url]     | *[noedigsti]*                |..
-| *2*  | 🔨################# | `Desc..................................`                     | [🔗][url]     |                              |..
-| *8*  | 🔨[Project-Cdeez]   | `Desc..................................`                     | [🔗][url]     | *[noedigsti]*, *[LeeGhandi]* |..
+|  🚀  |***Project title***   |***Description***                                             |***More links***|***Main author(s)***      |
+| :---:| :------------------: | :----------------------------------------------------------: | :------------: | :---------------------------:|
+| *1*  | 🔨[cuongminhvu.xyz]  | This is my personal website where I showcase projects        | [🔗][url]     | *[noedigsti]*                |..
+| *2*  | 🔨[MiniGame]         | A senior year project where I got to develop a complete game | [🔗][url]     | *[noedigsti]*                |..
+| *..*  | 🔨################# | `Desc..................................`                     | [🔗][url]     |                              |..
+| *8*  | 🔨[Project-Cdeez]    | `Desc..................................`                     | [🔗][url]     | *[noedigsti]*, *[LeeGhandi]* |..
 
 </br>
 
@@ -290,7 +290,7 @@ a lot of quotes 🗿
 | :---: | :------------------------------------: | :------------------------------------------: | :-----------: | :--------: |
 |       | Put projects onto the website          |                                              |       ⇋       |     ⇋      |..
 |       | remove this todo list from here        | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
-|       | Automate changes to this README.md     |                                              |       ⇋       |     ⇋      |..
+|       | use GitHub Action this README.md       | *?*                                          |       ⇋       |     ⇋      |..
 |       | .. and more automations                |                                              |       ⇋       |     ⇋      |..
 |       | YouTube API                            |                                              |       ⇋       |     ⇋      |..
 | *??*  | *??*                                   | *??*                                         |       ⇋       |     ⇋      |..
@@ -300,7 +300,7 @@ a lot of quotes 🗿
 </br>
 
 <!-- Tools, Softwares, Languages, Experiences -->
-## 🧐 Current
+## Current
 #### things that I have ever known up till now, and still been improving
 <div align=center>    
     <a href="#-" class="tools-known">
@@ -319,7 +319,7 @@ a lot of quotes 🗿
     </a>
 </div>
 
-## 👩‍🚀 Upcoming very soon™
+## Upcoming very soon™
 #### ..on a todo list or on a learning path
 <div align=center>
     <a href="#-" class="tools-soon">
@@ -332,7 +332,7 @@ a lot of quotes 🗿
 </div>
 
 <!-- Stats Section -->
-## 🗿 GitHub Stats 
+## GitHub Stats 
 #### ..includes private repos
 <div align="center">
     <a href="#-">
