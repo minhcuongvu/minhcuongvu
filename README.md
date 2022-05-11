@@ -1,26 +1,5 @@
 <!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
 <h1 align=center>Welcome to my GitHub page!</h1>
-<div align=center>
-    <a href="#-">
-        <img height=32 src="https://img.shields.io/badge/join%20the%20dark💡%20side-000000?style=for-the-badge">
-    </a>
-    <a href="#-">
-        <img height=32 src="https://img.shields.io/badge/team%20red-rgb(169,0,0)?style=for-the-badge">
-    </a>
-</div>
-
-</br>
-
-<div align=center>
-    <a href="#-">
-        <img height=28 src="https://img.shields.io/badge/pace-yourself-informational?style=for-the-badge&labelColor=000000">
-        <img height=28 src="https://img.shields.io/badge/&&%20be%20curious-always-ec3c3c?style=for-the-badge&labelColor=000000">
-        <img height=28 src="https://img.shields.io/badge/&&%20push-boundaries-yellow?style=for-the-badge&labelColor=000000">
-        <img height=28 src="https://img.shields.io/badge/&&%20don%27t%20cut%20short-yourself-success?style=for-the-badge&labelColor=000000">
-    </a>
-</div>
-
-</br>
 
 <!-- Quotes Section if anyone is fond of reading -->
 <div align=center>
