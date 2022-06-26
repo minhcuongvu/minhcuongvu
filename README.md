@@ -260,24 +260,6 @@ a lot of quotes 🗿
 
 </br>
 
-<!-- TODO -->
-## 📝 My TODO's
-####  ..in no particular order. 
-<details><summary>Click Here 👈</summary>
-
-|  📂  | 🤔                                     | ***Comment***                                | ***Updated*** | ***tags*** |
-| :---: | :------------------------------------: | :------------------------------------------: | :-----------: | :--------: |
-|       | Put projects onto the website          |                                              |       ⇋       |     ⇋      |..
-|       | remove this todo list from here        | then add links to the rest of the tool icons |       ⇋       |     ⇋      |..
-|       | use GitHub Action this README.md       | *?*                                          |       ⇋       |     ⇋      |..
-|       | .. and more automations                |                                              |       ⇋       |     ⇋      |..
-|       | YouTube API                            |                                              |       ⇋       |     ⇋      |..
-| *??*  | *??*                                   | *??*                                         |       ⇋       |     ⇋      |..
-| *n*   |                                        |                                              |       ⇋       |     ⇋      |..
-</details>                 
-
-</br>
-
 <!-- Tools, Softwares, Languages, Experiences -->
 ## Current
 #### things that I have ever known up till now, and still been improving
@@ -295,18 +277,7 @@ a lot of quotes 🗿
         <img height=24 src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff">
         <img height=24 src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff">
         <img height=24 src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=ffffff">
-    </a>
-</div>
-
-## Upcoming very soon™
-#### ..on a todo list or on a learning path
-<div align=center>
-    <a href="#-" class="tools-soon">
         <img height=24 src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff">
-        <img height=24 src="https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=NGINX&logoColor=ffffff">
     </a>
 </div>
 
