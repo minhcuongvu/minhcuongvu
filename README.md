@@ -186,19 +186,11 @@ a lot of quotes 🗿
 
 <!-- About Section -->
 ## ⚔️ About me
+<p align="center">Software Engineer</p>
 <details><summary>Click Here 👈</summary>
     <ul class="about-list">
         <li>
-            Graduated in January 2022
-        </li>
-        <li>
-            Aspiring Software Engineer 
-        </li>
-        <li>
-            Mild Asperger's
-        </li>
-        <li>
-            🛠 Engineering + 🔮 Black magic 
+            Gen Z
         </li>
     </ul>
     <details><summary>Click Here 👈 —My fields of interests...</summary>
