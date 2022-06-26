@@ -185,12 +185,15 @@ a lot of quotes 🗿
 </div>
 
 <!-- About Section -->
-## ⚔️ About me
-<p align="center">Software Engineer</p>
-<details><summary>Click Here 👈</summary>
+## ⚔️ Software Engineering
+
+<details><summary>More about me? Click Here 👈</summary>
     <ul class="about-list">
         <li>
             Gen Z
+        </li>
+        <li>
+            ..
         </li>
     </ul>
     <details><summary>Click Here 👈 —My fields of interests...</summary>
