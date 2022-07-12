@@ -248,6 +248,7 @@ a lot of quotes 🗿
 
 |  🚀  |***Project title***   |***Description***                                             |***More links***|***Main author(s)***      |
 | :---:| :------------------: | :----------------------------------------------------------: | :------------: | :---------------------------:|
+| *1*  | 🔨[Landmark]         | Latest project                                               | [🔗][url]     | *[noedigsti]*                |..
 | *1*  | 🔨[cuongminhvu.xyz]  | This is my personal website where I showcase projects        | [🔗][url]     | *[noedigsti]*                |..
 | *2*  | 🔨[MiniGame]         | A senior year project where I got to develop a complete game | [🔗][url]     | *[noedigsti]*                |..
 | *..*  | 🔨################# | `Desc..................................`                     | [🔗][url]     |                              |..
@@ -299,6 +300,7 @@ a lot of quotes 🗿
 [social-discord]:  https://discord.com
 [social-mail]:     mailto:noedigsti@gmail.com
 
+[Landmark]:        https://github.com/noedigsti/My-Community-Landmark
 [cuongminhvu.xyz]: https://github.com/noedigsti/cuongminhvu
 [Project-candace]: https://github.com/noedigsti
 [Project-dragon]:  https://github.com/noedigsti
