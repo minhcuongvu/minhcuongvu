@@ -249,10 +249,10 @@ a lot of quotes 🗿
 |  🚀  |***Project title***   |***Description***                                             |***More links***|***Main author(s)***      |
 | :---:| :------------------: | :----------------------------------------------------------: | :------------: | :---------------------------:|
 | *1*  | 🔨[Landmark]         | Latest project                                               | [🔗][url]     | *[noedigsti]*                |..
-| *1*  | 🔨[cuongminhvu.xyz]  | This is my personal website where I showcase projects        | [🔗][url]     | *[noedigsti]*                |..
-| *2*  | 🔨[MiniGame]         | A senior year project where I got to develop a complete game | [🔗][url]     | *[noedigsti]*                |..
+| *2*  | 🔨[cuongminhvu.xyz]  | This is my personal website where I showcase projects        | [🔗][url]     | *[noedigsti]*                |..
+| *3*  | 🔨[MiniGame]         | A senior year project where I got to develop a complete game | [🔗][url]     | *[noedigsti]*                |..
 | *..*  | 🔨################# | `Desc..................................`                     | [🔗][url]     |                              |..
-| *8*  | 🔨[Project-Cdeez]    | `Desc..................................`                     | [🔗][url]     | *[noedigsti]*, *[LeeGhandi]* |..
+| *n*  | 🔨[Project-Cdeez]    | `Desc..................................`                     | [🔗][url]     | *[noedigsti]*, *[LeeGhandi]* |..
 
 </br>
 
