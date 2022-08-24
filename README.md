@@ -152,8 +152,6 @@
     </ul>
 </details>
 
-</br>
-
 <!-- Tools, Softwares, Languages, Experiences -->
 ## 🚀 Technologies
 <div>    
@@ -195,18 +193,6 @@
 [social-twitter]:  https://twitter.com/noedigsti_
 [social-discord]:  https://discord.com
 [social-mail]:     mailto:noedigsti@gmail.com
-
-[Landmark]:        https://github.com/noedigsti/My-Community-Landmark
-[cuongminhvu.xyz]: https://github.com/noedigsti/cuongminhvu
-[Project-candace]: https://github.com/noedigsti
-[Project-dragon]:  https://github.com/noedigsti
-[Project-benover]: https://github.com/noedigsti
-[updog]:           https://github.com/noedigsti
-[Project-wendys]:  https://github.com/noedigsti
-[Kisma]:           https://github.com/noedigsti
-[Project-Cdeez]:   https://github.com/noedigsti
-[MiniGame]:        https://github.com/noedigsti/IGB400
-[url]:             https://github.com/noedigsti?tab=repositories
 
 [LeeGhandi]:       https://youtu.be/dQw4w9WgXcQ
 [noedigsti]:       https://github.com/noedigsti
