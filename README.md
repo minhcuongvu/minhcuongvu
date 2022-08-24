@@ -1,20 +1,19 @@
-<!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=noedigsti&label=TOTAL%20VISITORS&countColor=%23f47373&labelStyle=upper)](https://visitorbadge.io/status?path=noedigsti)
 
-<h3 align=center><i>👋 Hey there! I'm Cuong (Minh) Vu</i></h2>
+<!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
+<h3 align=center><i>👋 Hey there! I'm Cuong (Minh) Vu</i></h3>
 
 <!-- Contacts -->
 <div align=center>
     <a href="https://cuongminhvu.xyz">
-        <img height=32 src="https://img.shields.io/badge/my%20website-%2317a2b8?url=&style=for-the-badge">
-    </a>&nbsp;&nbsp;
+        <img height=32 src="https://img.shields.io/badge/🌐my%20website-ffffff?url=&style=for-the-badge">
+    </a>
     <a href="https://www.linkedin.com/in/cuongminhvu/">
         <img height=32 src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn">
-    </a>&nbsp;&nbsp;
+    </a>
     <a href="https://twitter.com/noedigsti_">
         <img height=32 src="https://img.shields.io/badge/noedigsti__-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff">
-    </a>&nbsp;&nbsp;
+    </a>
     <a href="mailto:noedigsti@gmail.com">
         <img height=32 src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=Gmail">
     </a>
@@ -24,7 +23,7 @@
 
 <!-- About Section -->
 ## 🧢 About me, I ..
-<ul class="about-list">
+<ul>
     <li>
         <i>am a Software Engineer (Graduate/Junior) working on <b><i>Front-End</i></b> (mostly) & <b><i>Back-End</i></b> (sometimes)</i>
     </li>
@@ -143,12 +142,12 @@
 </ul>
 
 <details><summary><i>More?</i></summary>
-    <ul class="another-about-list">
+    <ul>
         <li>
             <i>I watch Youtube .. a lot</i>
         </li>
         <li>
-            <i>I don't read books, I listen to & watch people</i>
+            <i>I don't read books, I listen to and watch people</i>
         </li>
     </ul>
 </details>
