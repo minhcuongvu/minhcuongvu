@@ -6,14 +6,14 @@
 <!-- Contacts -->
 <div align=center>
     <a href="https://cuongminhvu.xyz">
-        <img height=32 src="https://img.shields.io/badge/🌐my%20website-ffffff?url=&style=for-the-badge">
-    </a>
+        <img height=32 src="https://img.shields.io/badge/my%20website-%2317a2b8?url=&style=for-the-badge">
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/cuongminhvu/">
         <img height=32 src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn">
-    </a>
+    </a>&nbsp;
     <a href="https://twitter.com/noedigsti_">
         <img height=32 src="https://img.shields.io/badge/noedigsti__-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff">
-    </a>
+    </a>&nbsp;
     <a href="mailto:noedigsti@gmail.com">
         <img height=32 src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=Gmail">
     </a>
