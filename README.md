@@ -141,13 +141,13 @@
     </li>
 </ul>
 
-<details><summary><i>More?</i></summary>
+<details><summary><i>Some quotes>></i></summary>
     <ul>
         <li>
-            <i>I watch Youtube .. a lot</i>
+            <i>"You cannot improve the world, if you don't know the reality of the world."</i>
         </li>
         <li>
-            <i>I don't read books, I listen to and watch people</i>
+            <i>"Putting in extra hours is not seen as a commitment to your work, but as a sign of inefficiency." - some German guy</i>
         </li>
     </ul>
 </details>
