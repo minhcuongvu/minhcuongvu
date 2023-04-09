@@ -22,16 +22,15 @@
 ---
 
 <!-- About Section -->
-## 🧢 About me, I ..
 <ul>
     <li>
-        <i>am a Software Engineer (Graduate/Junior) working on <b><i>Front-End</i></b> (mostly) & <b><i>Back-End</i></b> (sometimes)</i>
+        <i>I'm a Software Engineer (Graduate/Junior) working on <b><i>Front-End</i></b> (mostly) & <b><i>Back-End</i></b> (sometimes)</i>
     </li>
     <li>
-        <i>love coding, programming, solving problems with software solutions (Apps, APIs, Tools)</i>
+        <i>I love coding, programming, solving problems with software solutions (Apps, APIs, Tools)</i>
     </li>
     <li>
-        <i>eat bugs, errors, exceptions, overflows, mem leaks, crashes</i>
+        <i>My fav pastime is eating bugs, errors, exceptions, overflows, mem leaks, crashes</i>
         <details><summary>↩️ <i>for</i></summary>
             <ul class="another-about-list">
                 <li>
@@ -134,10 +133,7 @@
         </details>
     </li>
     <li>
-        <i>have significant interest in the internet and its impact to humanity.</i>
-    </li>
-    <li>
-        <i>enjoy talking & learning about Technology, Science, Philosophy, Money, Travelling, Photography, Art and Music.</i>
+        <i>Also enjoy talking & learning about Technology, Science, Philosophy, Money, Travelling, Photography, Art and Music.</i>
     </li>
 </ul>
 
@@ -153,22 +149,16 @@
 </details>
 
 <!-- Tools, Softwares, Languages, Experiences -->
-## 🚀 Technologies
+## 🚀 Techies
 <div>    
     <a href="#-" class="tools-known">
         <img height=32 src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B">
         <img height=32 src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=C%20Sharp">
         <img height=32 src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=CSS%20Wizardry&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
         <img height=32 src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=ffffff">
         <img height=32 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
         <img height=32 src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff">
         <img height=32 src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-        <img height=32 src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=ffffff">
         <img height=32 src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff">
         <img height=32 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     </a>
