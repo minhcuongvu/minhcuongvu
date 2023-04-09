@@ -24,13 +24,13 @@
 <!-- About Section -->
 <ul>
     <li>
-        <i>I'm a Software Engineer (Graduate/Junior) working on <b><i>Front-End</i></b> (mostly) & <b><i>Back-End</i></b> (sometimes)</i>
+        I'm a Software Engineer (Graduate/Junior) working on <b><i>Front-End</i></b> (mostly) & <b><i>Back-End</i></b> (sometimes)
     </li>
     <li>
-        <i>I love coding, programming, solving problems with software solutions (Apps, APIs, Tools)</i>
+        I love coding, programming, solving problems with software solutions (Apps, APIs, Tools)
     </li>
     <li>
-        <i>My fav pastime is eating bugs, errors, exceptions, overflows, mem leaks, crashes</i>
+        My fav pastime is eating bugs, errors, exceptions, overflows, mem leaks, crashes
         <details><summary>↩️ <i>for</i></summary>
             <ul class="another-about-list">
                 <li>
@@ -133,7 +133,7 @@
         </details>
     </li>
     <li>
-        <i>Also enjoy talking & learning about Technology, Science, Philosophy, Money, Travelling, Photography, Art and Music.</i>
+        Also enjoy talking & learning about Technology, Science, Philosophy, Money, Travelling, Photography, Art and Music.
     </li>
 </ul>
 
