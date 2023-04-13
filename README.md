@@ -24,10 +24,10 @@
 <!-- About Section -->
 <ul>
     <li>
-        I'm a Software Engineer (Graduate/Junior) working on <b><i>Front-End</i></b> (mostly) & <b><i>Back-End</i></b> (sometimes)
+        I'm a (Graduate/Junior) Software Engineer working on Full Stack Development.
     </li>
     <li>
-        I love coding, programming, solving problems with software solutions (Apps, APIs, Tools)
+        I love coding, programming, solving problems.
     </li>
     <li>
         My fav pastime is eating bugs, errors, exceptions, overflows, mem leaks, crashes
@@ -133,7 +133,7 @@
         </details>
     </li>
     <li>
-        Also enjoy talking & learning about Technology, Science, Philosophy, Money, Travelling, Photography, Art and Music.
+        I also enjoy talking & learning about Technology, Science, Philosophy, Money, Travelling, Photography, Art and Music.
     </li>
 </ul>
 
@@ -152,17 +152,15 @@
 </details>
 
 <!-- Tools, Softwares, Languages, Experiences -->
-## 🚀 Techies
-<div>    
-    <a href="#-" class="tools-known">
-        <img height=32 src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B">
-        <img height=32 src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=C%20Sharp">
-        <img height=32 src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img height=32 src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff">
-    </a>
-</div>
+## 🚀 Langs
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!-- Stats Section -->
 ## 📌 Stats
@@ -170,11 +168,3 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=noedigsti&show_icons=true&count_private=true&theme=dracula&hide=stars)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noedigsti&theme=dark&count_private=true&theme=dracula)
-
-<!-- References, URL variables -->
-[social-twitter]:  https://twitter.com/noedigsti_
-[social-discord]:  https://discord.com
-[social-mail]:     mailto:noedigsti@gmail.com
-
-[LeeGhandi]:       https://youtu.be/dQw4w9WgXcQ
-[noedigsti]:       https://github.com/noedigsti
