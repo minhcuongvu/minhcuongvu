@@ -137,13 +137,16 @@
     </li>
 </ul>
 
-<details><summary><i>Some quotes>></i></summary>
+<details><summary><i>Thoughts & Quotes >></i></summary>
     <ul>
         <li>
             <i>"You cannot improve the world, if you don't know the reality of the world."</i>
         </li>
         <li>
-            <i>"Putting in extra hours is not seen as a commitment to your work, but as a sign of inefficiency." - some German guy</i>
+            <i>"It's not about having all the choices at hand, but rather a harmony of choices."</i>
+        </li>
+        <li>
+            <i>"If we cling on believing in God, we likewise can not have faith, for faith is not clinging but letting go."</i>
         </li>
     </ul>
 </details>
@@ -157,29 +160,16 @@
         <img height=32 src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff">
         <img height=32 src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=ffffff">
         <img height=32 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img height=32 src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff">
         <img height=32 src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff">
-        <img height=32 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     </a>
 </div>
 
 <!-- Stats Section -->
 ## 📌 Stats
-<div align="center">
-    <a href="#-">
-        <img 
-        width=60% 
-        alt="GitHub Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=noedigsti&custom_title=Statistics&count_private=true&text_color=F5F5F5&title_color=F5F5F5&border_color=d0312d&bg_color=30,08294E,2E1123&hide=issues&show_icons=true&icon_color=d0312d" />
-    </a>
-    <a href="#-">
-        <img 
-        width=40% 
-        alt="Top Langs" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=noedigsti&custom_title=Languages%20appeared&count_private=true&text_color=F5F5F5&title_color=F5F5F5&border_color=d0312d&bg_color=30,08294E,2E1123&hide=ShaderLab,HLSL&layout=compact&langs_count=7" />
-    </a>
-</div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=noedigsti&show_icons=true&count_private=true&theme=dracula&hide=stars)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noedigsti&theme=dark&count_private=true&theme=dracula)
 
 <!-- References, URL variables -->
 [social-twitter]:  https://twitter.com/noedigsti_
