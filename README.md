@@ -30,110 +30,7 @@
         I love coding, programming, solving problems.
     </li>
     <li>
-        My fav pastime is eating bugs, errors, exceptions, overflows, mem leaks, crashes
-        <details><summary>↩️ <i>for</i></summary>
-            <ul class="another-about-list">
-                <li>
-                    <i>breakfast</i>
-                </li>
-                <li>
-                    <i>full breakfast</i>
-                </li>
-                <li>
-                    <i>midnight breakfast</i>
-                </li>
-                <li>
-                    <i>dinner</i>
-                </li>
-                <li>
-                    <i>dinner parties</i>
-                </li>
-                <li>
-                    <i>lunch</i>
-                </li>
-                <li>
-                    <i>full course dinners</i>
-                </li>
-                <li>
-                    <i>second breakfast</i>
-                </li>
-                <li>
-                    <i>elevenses</i>
-                </li>
-                <li>
-                    <i>tea parties</i>
-                </li>
-                <li>
-                    <i>afternoon tea</i>
-                </li>
-                <li>
-                    <i>high tea</i>
-                </li>
-                <li>
-                    <i>supper</i>
-                </li>
-                <li>
-                    <i>airline meals</i>
-                </li>
-                <li>
-                    <i>banquet</i>
-                </li>
-                <li>
-                    <i>barbecue</i>
-                </li>
-                <li>
-                    <i>buffet</i>
-                </li>
-                <li>
-                    <i>field ration</i>
-                </li>
-                <li>
-                    <i>collation</i>
-                </li>
-                <li>
-                    <i>kids meal</i>
-                </li>
-                <li>
-                    <i>meals on wheels</i>
-                </li>
-                <li>
-                    <i>TV dinner</i>
-                </li>
-                <li>
-                    <i>school lunch</i>
-                </li>
-                <li>
-                    <i>picnic</i>
-                </li>
-                <li>
-                    <i>New England boiled dinner</i>
-                </li>
-                <li>
-                    <i>Sunday roast</i>
-                </li>
-                <li>
-                    <i>good Friday</i>
-                </li>
-                <li>
-                    <i>wedding reception</i>
-                </li>
-                <li>
-                    <i>rehearsal dinner</i>
-                </li>
-                <li>
-                    <i>multi course meals</i>
-                </li>
-                <li>
-                    <i>mixed grill</i>
-                </li>
-                <li>
-                    <i>and dessert</i>
-                </li>
-            </ul>
-        </details>
-    </li>
-    <li>
-        I also enjoy talking & learning about Technology, Science, Philosophy, Money, Travelling, Photography, Art and Music.
+        I also enjoy talking & learning about Technology, Science, Philosophy, A.I., Travelling, Photography, Art and Music.
     </li>
 </ul>
 
@@ -160,7 +57,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!-- Stats Section -->
 ## 📌 Stats
