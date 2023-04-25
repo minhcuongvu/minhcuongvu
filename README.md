@@ -24,7 +24,7 @@
 <!-- About Section -->
 <ul>
     <li>
-        I'm a (Graduate/Junior) Software Engineer working on Full Stack Development.
+        I'm a (Graduate/Junior) Software Engineer. Cloud/Web Development. Machine Learning. 
     </li>
     <li>
         I love coding, programming, solving problems.
@@ -45,6 +45,9 @@
         <li>
             <i>"If we cling on believing in God, we likewise can not have faith, for faith is not clinging but letting go."</i>
         </li>
+        <li>
+            <i>A.B.C. Always. Be. Curious.</i>
+        </li>
     </ul>
 </details>
 
@@ -63,4 +66,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=noedigsti&show_icons=true&count_private=true&theme=dracula&hide=stars)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noedigsti&theme=dark&count_private=true&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noedigsti&theme=dracula&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noedigsti&theme=dracula&custom_title=Languages%20appeared&count_private=true&langs_count=7)
