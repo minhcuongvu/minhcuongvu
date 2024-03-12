@@ -1,7 +1,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=noedigsti&label=TOTAL%20VISITORS&countColor=%23f47373&labelStyle=upper)](https://visitorbadge.io/status?path=noedigsti)
 
 <!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
-<h3 align=center><i>👋 Hey there! I'm Cuong (Minh) Vu</i></h3>
+<h3 align=center><i>👋 Hey there! I'm Adrian</i></h3>
 
 <!-- Contacts -->
 <div align=center>
