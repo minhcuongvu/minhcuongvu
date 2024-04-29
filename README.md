@@ -24,13 +24,13 @@
 <!-- About Section -->
 <ul>
     <li>
-        I'm a (Graduate/Junior) Software Engineer. Cloud/Web Development. Machine Learning. 
+        I'm a Software Engineer doing Cloud/Web Development.
     </li>
     <li>
-        I love coding, programming, solving problems.
+        I love learning & solving problems.
     </li>
     <li>
-        I also enjoy talking & learning about Technology, Science, Philosophy, A.I., Travelling, Photography, Art and Music.
+        I also enjoy talking & learning about Technology, Science, Philosophy, A.I., Travelling, Photography, Art & Music.
     </li>
 </ul>
 
