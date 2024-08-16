@@ -46,7 +46,7 @@
             <i>"If we cling on believing in God, we likewise can not have faith, for faith is not clinging but letting go."</i>
         </li>
         <li>
-            <i>A.B.C. Always. Be. Curious.</i>
+            <i>A.B.C. - Always Be Curious</i>
         </li>
     </ul>
 </details>
@@ -71,11 +71,11 @@
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![](https://img.shields.io/badge/elastic%20cloud-005571?style=for-the-badge&logo=elasticcloud&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 <!-- Stats Section -->
