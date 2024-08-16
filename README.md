@@ -62,6 +62,7 @@
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/bin-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## ☕ Frameworks, Libraries, Tools, Platforms
 
