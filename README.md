@@ -1,8 +1,5 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=noedigsti&label=TOTAL%20VISITORS&countColor=%23f47373&labelStyle=upper)](https://visitorbadge.io/status?path=noedigsti)
 
-<!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
-<h3 align=center><i>👋 Hey there! I'm Adrian</i></h3>
-
 <!-- Contacts -->
 <div align=center>
     <a href="https://cuongminhvu.xyz">
@@ -20,6 +17,9 @@
 </div>
 
 ---
+
+<!-- Custom made GitHub README.md; Feel free to star, fork, pr, etc.. -->
+<span>👋 Hey there! I'm Minh Cuong Vu (or you can call me Michael Vu)</span>
 
 <!-- About Section -->
 <ul>
