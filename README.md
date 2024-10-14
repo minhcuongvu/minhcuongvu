@@ -2,9 +2,6 @@
 
 <!-- Contacts -->
 <div align=center>
-    <a href="https://cuongminhvu.xyz">
-        <img height=32 src="https://img.shields.io/badge/my%20website-%2317a2b8?url=&style=for-the-badge">
-    </a>
     <a href="https://www.linkedin.com/in/cuongminhvu/">
         <img height=32 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -87,8 +84,8 @@
 <!-- Stats Section -->
 ## 📌 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=noedigsti&show_icons=true&count_private=true&theme=dracula&hide=stars)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=minhcuongvu&show_icons=true&count_private=true&theme=dracula&hide=stars)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noedigsti&theme=dracula&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhcuongvu&theme=dracula&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noedigsti&theme=dracula&custom_title=Languages%20appeared&count_private=true&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhcuongvu&theme=dracula&custom_title=Languages%20appeared&count_private=true&langs_count=7)
